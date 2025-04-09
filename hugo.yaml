@@ -8,6 +8,7 @@ enableRobotsTXT: true
 canonifyURLs: true
 pagination:
   pagerSize: 6
+publishDir: build
 darkmode_js:
   - assets/js/darkmode.js
 enableInlineShortcodes: true
